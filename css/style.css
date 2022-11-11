@@ -1,0 +1,260 @@
+.portfolio .wrapper
+ {
+	width:70%;
+    margin:auto;	
+ } 
+  .theme .wrapper
+ {
+	width:70%;
+    margin:auto;	
+ }
+  .service .wrapper
+ {
+	width:70%;
+    margin:auto;	
+ }
+  .website .wrapper
+ {
+	width:70%;
+    margin:auto;	
+ }
+  .project .wrapper
+ {
+	width:70%;
+    margin:auto;	
+ }
+ .button .wrapper
+ {
+	width:70%;
+    margin:auto;	
+ }
+  .map .wrapper
+ {
+	width:70%;
+    margin:auto;	
+ }
+  .copyright .wrapper
+ {
+	width:70%;
+    margin:auto;	
+ }
+.portfolio
+ {
+	 background-color:peru;
+	 height:680px; 
+ }
+ .portfolio .portfolio-fc
+ {
+	 display:flex;
+	 flex-direction:column;
+	 align-items:center;
+ }
+ .portfolio .portfolio-fc .texta
+ {
+	margin-top:150px;
+    background-color:white;
+	height:250px;
+    width:40%;
+ }	 
+ .portfolio .portfolio-fc .find
+ {
+    margin-top:100px;
+    background-color:white;
+	height:50px;
+    width:20%;
+ }
+  .theme
+ {
+	 background-color:burlywood;
+	 height:434px; 
+ }
+ .theme .theme-fc
+ {
+	 display:flex;
+     flex-direction:column;
+	 align-items:center;
+ }
+ .theme .theme-fc .textb
+ {
+	margin-top:50px;
+    background-color:white;
+	height:250px;
+    width:400px
+ }	 
+ .theme .theme-fc .offer
+ {
+	margin-top:50px;
+    background-color:white;
+	height:50px;
+    width:100px
+ }
+  .service
+ {
+	 background-color:coral;
+	 height:500px;
+ }
+ .service .service-fc
+ {
+	 display:flex;
+	 justify-content:space-between;
+ }
+
+.service .service-fc .responsive
+ {
+	 margin-top:200px;
+	 background-color:white;
+     width:10%;
+     height:100px;
+ }
+.service .service-fc .redesigned
+ {
+     margin-top:200px;
+	 background-color:white;
+     width:10%;
+     height:100px;
+ }
+.service .service-fc .favorited
+ {
+	 margin-top:200px;
+	 background-color:white;
+     width:10%;
+     height:100px;
+ } 
+.service .service-fc .question
+ {
+	 margin-top:200px;
+	 background-color:white;
+     width:10%;
+     height:100px;
+ }
+.website
+ {
+	 background-color:darkcyan;
+	 height:600px;
+ }
+ .website .website-fc
+ {
+	 display:flex;
+     flex-direction:column;
+	 align-items:center;			
+ }
+ .website .website-fc .textc
+ {
+	 margin-top:150px;
+	 background-color:pink;
+	 height:150px;
+     width:50%;
+ }
+ .website .website-fc .download
+ {
+	 margin-top:150px;
+	 background-color:pink;
+	 height:50px;
+     width:20%;
+ }
+ 
+  .project
+ {
+	 background-color:cyan;
+	 height:900px;
+ }
+  .project .project-fc
+  {
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:center; 
+ }
+ .project .project-fc .stationary
+ {
+	 margin-top:140px;
+	 background-color:gray;
+     width:50%;
+     height:310px;
+ }
+  .project .project-fc .icecream
+ {
+	 margin-top:140px;
+	 background-color:lightgray;
+     width:50%;
+     height:310px;
+ }
+  .project .project-fc .strawberries
+ {  
+	 background-color:lightsalmon;
+     width:50%;
+     height:310px;
+ }
+  .project .project-fc .workspace
+ {
+	 background-color:lightblue;
+     width:50%;
+     height:310px;
+ }
+  .button
+ {
+	 background-color:khaki;
+	 height:368px;
+ }
+   .button .button-fc
+   {
+	   display:flex;
+	   flex-wrap:wrap;
+	   justify-content:center;
+   }
+ .button .button-fc .textd
+ {
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:100%;
+ }
+  .button .button-fc .click
+ { 	 
+     margin-left:80px;
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:10%;
+ }
+  .button .button-fc .look
+ {
+	 margin-left:80px;
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:10%;
+ }
+  .map
+ {
+	 background-color:lightgreen;
+	 height:480px; 
+ }
+  .map .map-fc
+  {
+	  display:flex;
+	  justify-content:center;
+  }
+  .map .map-fc .maps
+  {
+	  margin-top:200px;
+	  background-color:pink;
+	  height:100px;
+	  width:30%;
+  }
+  .copyright
+ {
+	 background-color:plum;
+	 height:100px;	 
+ }
+ .copyright .copyright-fc 
+ {
+	 display:flex;
+	 justify-content:center;
+ }
+  .copyright .copyright-fc .copyrights
+  { 
+     margin-top:20px;
+	 background-color:cyan;
+     height:50px;
+	 width:20%;
+  }
